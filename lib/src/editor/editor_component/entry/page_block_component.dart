@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/base_component/widget/ignore_parent_gesture.dart';
-import 'package:appflowy_editor/src/flutter/scrollable_positioned_list/scrollable_positioned_list.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/block_component/base_component/widget/ignore_parent_gesture.dart';
+import 'package:appflowy_editor_wasm/src/flutter/scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

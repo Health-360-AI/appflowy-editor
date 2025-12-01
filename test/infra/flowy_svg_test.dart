@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/src/infra/flowy_svg.dart';
+import 'package:appflowy_editor_wasm/src/infra/flowy_svg.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_test/flutter_test.dart';

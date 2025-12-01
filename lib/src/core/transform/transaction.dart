@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 /// A [Transaction] has a list of [Operation] objects that will be applied
 /// to the editor.

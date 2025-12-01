@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 // Include all the shortcut(formatting) events triggered by wrapping text with  double characters.
 // 1. double asterisk to bold -> **abc**

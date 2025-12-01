@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/src/core/document/path.dart';
-import 'package:appflowy_editor/src/core/location/position.dart';
-import 'package:appflowy_editor/src/core/location/selection.dart';
+import 'package:appflowy_editor_wasm/src/core/document/path.dart';
+import 'package:appflowy_editor_wasm/src/core/location/position.dart';
+import 'package:appflowy_editor_wasm/src/core/location/selection.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

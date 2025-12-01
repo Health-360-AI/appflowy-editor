@@ -111,7 +111,7 @@ In the example code below we are going to test `select_all_handler.dart` by inse
 Afterwards, we will `expect` that the current selection of the editor is equal to the selection of all the lines that were generated.
 
 ```dart
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import '../../infra/test_editor.dart';

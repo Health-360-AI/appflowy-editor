@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 import 'package:file_picker/file_picker.dart' as fp;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

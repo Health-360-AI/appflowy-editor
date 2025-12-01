@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 import 'package:flutter/material.dart';
 
 // if the result is null, the item will be hidden

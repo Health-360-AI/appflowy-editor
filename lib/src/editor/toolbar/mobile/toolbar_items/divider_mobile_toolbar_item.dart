@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 final dividerMobileToolbarItem = MobileToolbarItem.action(
   itemIconBuilder: (context, __, ___) => AFMobileIcon(

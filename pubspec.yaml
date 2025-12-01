@@ -1,8 +1,8 @@
-name: "appflowy_editor"
+name: "appflowy_editor_wasm"
 
-version: 6.0.1
+version: 6.0.0
 
-homepage: "https://github.com/AppFlowy-IO/appflowy-editor"
+homepage: "https://github.com/Health-360-AI/appflowy-editor.git"
 
 environment:
   sdk: ">=3.6.0 <4.0.0"

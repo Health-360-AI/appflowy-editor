@@ -2,10 +2,10 @@ library;
 
 import 'dart:convert';
 
-import 'package:appflowy_editor/src/core/document/document.dart';
-import 'package:appflowy_editor/src/plugins/html/encoder/parser/divider_node_parser.dart';
-import 'package:appflowy_editor/src/plugins/html/html_document_decoder.dart';
-import 'package:appflowy_editor/src/plugins/html/html_document_encoder.dart';
+import 'package:appflowy_editor_wasm/src/core/document/document.dart';
+import 'package:appflowy_editor_wasm/src/plugins/html/encoder/parser/divider_node_parser.dart';
+import 'package:appflowy_editor_wasm/src/plugins/html/html_document_decoder.dart';
+import 'package:appflowy_editor_wasm/src/plugins/html/html_document_encoder.dart';
 
 import 'encoder/parser/html_parser.dart';
 

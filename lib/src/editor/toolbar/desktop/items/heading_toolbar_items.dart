@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 List<ToolbarItem> headingItems = [1, 2, 3]
     .map((index) => _HeadingToolbarItem(index))

@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/plugins/html/encoder/parser/divider_node_parser.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/plugins/html/encoder/parser/divider_node_parser.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() async {

@@ -1,6 +1,6 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/table_block_component/table_add_button.dart';
-import 'package:appflowy_editor/src/editor/block_component/table_block_component/table_col.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/block_component/table_block_component/table_add_button.dart';
+import 'package:appflowy_editor_wasm/src/editor/block_component/table_block_component/table_col.dart';
 import 'package:flutter/material.dart';
 
 class TableView extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart' hide Overlay, OverlayEntry;
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 typedef ToolbarItemEventHandler = void Function(
   EditorState editorState,

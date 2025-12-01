@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/block_component/table_block_component/util.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/block_component/table_block_component/util.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../infra/testable_editor.dart';

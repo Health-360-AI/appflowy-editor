@@ -9,7 +9,7 @@ In this example, text that starts and ends with an underscore ( \_ ) character w
 Let's start with a blank document:
 
 ```dart
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor.dart';
 import 'package:flutter/material.dart';
 
 class UnderScoreToItalic extends StatelessWidget {
@@ -36,7 +36,7 @@ We need to define `key` and `character` in a `CharacterShortcutEvent` object to 
 
 
 ```dart
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor.dart';
 import 'package:flutter/material.dart';
 
 // ...
@@ -55,7 +55,7 @@ CharacterShortcutEvent underscoreToItalicEvent = CharacterShortcutEvent(
 Now our 'underscore handler' function is done and the only task left is to inject it into the AppFlowyEditor.
 
 ```dart
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor.dart';
 import 'package:flutter/material.dart';
 
 class UnderScoreToItalic extends StatelessWidget {

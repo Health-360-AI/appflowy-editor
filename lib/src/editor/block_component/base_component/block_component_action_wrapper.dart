@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/renderer/block_component_action.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/editor_component/service/renderer/block_component_action.dart';
 import 'package:flutter/material.dart';
 
 typedef BlockComponentActionBuilder = Widget Function(

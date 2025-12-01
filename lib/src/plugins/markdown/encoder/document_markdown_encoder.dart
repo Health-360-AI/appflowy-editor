@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 import 'package:collection/collection.dart';
 
 class DocumentMarkdownEncoder extends Converter<Document, String> {

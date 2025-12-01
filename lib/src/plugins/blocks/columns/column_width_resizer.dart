@@ -1,5 +1,5 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/plugins/blocks/columns/columns_block_constant.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/plugins/blocks/columns/columns_block_constant.dart';
 import 'package:flutter/material.dart';
 
 class ColumnWidthResizer extends StatefulWidget {

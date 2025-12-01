@@ -1,10 +1,10 @@
 import 'dart:collection';
 
-import 'package:appflowy_editor/src/core/location/selection.dart';
-import 'package:appflowy_editor/src/core/transform/operation.dart';
-import 'package:appflowy_editor/src/core/transform/transaction.dart';
-import 'package:appflowy_editor/src/editor_state.dart';
-import 'package:appflowy_editor/src/infra/log.dart';
+import 'package:appflowy_editor_wasm/src/core/location/selection.dart';
+import 'package:appflowy_editor_wasm/src/core/transform/operation.dart';
+import 'package:appflowy_editor_wasm/src/core/transform/transaction.dart';
+import 'package:appflowy_editor_wasm/src/editor_state.dart';
+import 'package:appflowy_editor_wasm/src/infra/log.dart';
 
 /// A [HistoryItem] contains list of operations committed by users.
 /// If a [HistoryItem] is not sealed, operations can be added sequentially.

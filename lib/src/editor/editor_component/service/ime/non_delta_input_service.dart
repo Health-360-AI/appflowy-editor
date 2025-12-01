@@ -1,9 +1,9 @@
 import 'dart:math';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/ime/text_diff.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/ime/text_input_service.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/editor_component/service/ime/text_diff.dart';
+import 'package:appflowy_editor_wasm/src/editor/editor_component/service/ime/text_input_service.dart';
+import 'package:appflowy_editor_wasm/src/editor/util/platform_extension.dart';
 import 'package:flutter/services.dart';
 
 // string from flutter callback

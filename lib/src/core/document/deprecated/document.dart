@@ -1,9 +1,9 @@
 import 'dart:collection';
 
-import 'package:appflowy_editor/src/core/document/attributes.dart';
-import 'package:appflowy_editor/src/core/document/deprecated/node.dart';
-import 'package:appflowy_editor/src/core/document/path.dart';
-import 'package:appflowy_editor/src/core/document/text_delta.dart';
+import 'package:appflowy_editor_wasm/src/core/document/attributes.dart';
+import 'package:appflowy_editor_wasm/src/core/document/deprecated/node.dart';
+import 'package:appflowy_editor_wasm/src/core/document/path.dart';
+import 'package:appflowy_editor_wasm/src/core/document/text_delta.dart';
 
 ///
 /// ⚠️ THIS FILE HAS BEEN DEPRECATED.

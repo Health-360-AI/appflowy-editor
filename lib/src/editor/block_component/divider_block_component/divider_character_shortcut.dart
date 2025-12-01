@@ -1,4 +1,4 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 
 /// insert divider into a document by typing three dashes (-)
 /// or one em dash (—) and one dash (-)

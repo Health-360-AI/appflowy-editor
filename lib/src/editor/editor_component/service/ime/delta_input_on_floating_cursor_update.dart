@@ -1,7 +1,7 @@
-import 'package:appflowy_editor/appflowy_editor.dart';
-import 'package:appflowy_editor/src/editor/editor_component/service/selection/mobile_selection_service.dart';
-import 'package:appflowy_editor/src/editor/util/platform_extension.dart';
-import 'package:appflowy_editor/src/render/selection/mobile_basic_handle.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
+import 'package:appflowy_editor_wasm/src/editor/editor_component/service/selection/mobile_selection_service.dart';
+import 'package:appflowy_editor_wasm/src/editor/util/platform_extension.dart';
+import 'package:appflowy_editor_wasm/src/render/selection/mobile_basic_handle.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

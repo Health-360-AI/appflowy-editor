@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:appflowy_editor/appflowy_editor.dart';
+import 'package:appflowy_editor_wasm/appflowy_editor_wasm.dart';
 import 'package:flutter/widgets.dart';
 
 const _emptyCounters = Counters();
