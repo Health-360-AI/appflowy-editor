@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
-import 'package:web/web.dart' show window;
+import 'package:universal_web/web.dart' show window;
 import 'package:universal_platform/universal_platform.dart';
 
 // TODO(Xazin): Refactor to honor `Theme.platform`
